@@ -107,9 +107,9 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
   <a href="https://leetcode.com/Rajesh5k/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://rajesh-gupta-dev.vercel.app/" target="_blank">
+  <!-- <a href="https://rajesh-gupta-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/rajeshgupta-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
