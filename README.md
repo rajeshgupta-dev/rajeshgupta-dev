@@ -155,6 +155,6 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
 ⭐️ *From [rajeshgupta-dev](https://github.com/rajeshgupta-dev)*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Thanks%20for%20Visiting!%20🙌&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&desc=Let’s%20connect%20and%20grow%20together.&fontSize=76&reversal=true&section=footer"/>
 </p>
 
