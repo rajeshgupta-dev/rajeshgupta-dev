@@ -67,38 +67,33 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
   <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,figma,linux" />
 </p>
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
 </p>
 
-
 ## 📊 GitHub Analytics
-
-<!-- ## 📊 GitHub Stats
-
 <div align="center">
-
 <!-- Total GitHub Stats -->
 <a href="https://github.com/rajeshgupta-dev">
   <img src="https://github-readme-stats.vercel.app/api?username=rajeshgupta-dev&show_icons=true&count_private=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true" width="48%" />
 </a>
-
 <!-- Most Used Languages -->
 <a href="https://github.com/rajeshgupta-dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshgupta-dev&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=6" width="48%" />
 </a>
-
-<br><br>
-
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
 <!-- GitHub Streak -->
 <a href="https://github.com/rajeshgupta-dev">
   <img src="https://streak-stats.demolab.com/?user=rajeshgupta-dev&theme=github-dark&hide_border=true&border_radius=10&fire=EB5454&sideLabels=EB5454" width="97%" />
 </a>
-
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
@@ -106,20 +101,24 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
   <img src="https://github-profile-trophy.vercel.app/?username=rajeshgupta-dev&theme=radical&no-frame=true&no-bg=false&margin-w=10&row=2&column=4" />
 </div>
 
----
+
 
 ## 💻 LeetCode Stats
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
 <div align="center">
   <a href="https://leetcode.com/Rajesh5k/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Rajesh5k?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
   </a>
 </div>
 
----
+
 
 ## 📫 Connect With Me
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
 <div align="center">
   <a href="https://linkedin.com/in/rajesh-gupta175" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -138,7 +137,9 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
 
 ## ⚡ Fun Fact
 
