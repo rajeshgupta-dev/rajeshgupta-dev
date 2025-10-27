@@ -2,12 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Rajesh%20Gupta&fontAlign=35&descAlign=68&descAlignY=54&fontAlignY=25&textBg=false&animation=twinkling&desc=MERN%20Stack%20Learner%20@%20Masai%20|%20Future%20Full%20Stack%20Developer&fontSize=89&reversal=true"/>
+</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Rajesh%20Gupta&fontAlign=34&descAlign=68&descAlignY=54&fontAlignY=28&textBg=false&animation=twinkling&desc=MERN%20Stack%20Learner%20@%20Masai%20|%20Future%20Full%20Stack%20Developer&fontSize=76&reversal=true&section=header"/>
 </p>
-
-
-
 <div align="center">
 
 <!-- Typing Header Animation -->
@@ -29,8 +29,9 @@
 </p>
 
 </div>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
 
 ## 🎯 About Me
 
@@ -41,10 +42,10 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
 - 🛠️ Skilled in **Authentication**, **API Integration**, and **Backend Deployment**
 - 🤝 Excel in **collaborative environments** and solving **real-world challenges**
 - 🌱 Continuously learning and exploring **new technologies** to enhance my craft
-
- <img align="center" alt="Coding" width="1500" height = "500" src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" />
-
-
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend  
@@ -159,7 +160,10 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
 
 ⭐️ *From [rajeshgupta-dev](https://github.com/rajeshgupta-dev)*
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Thanks%20for%20Visiting!%20🙌&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&desc=Let’s%20connect%20and%20grow%20together.&fontSize=76&reversal=true&section=footer"/>
+</p> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thanks%20for%20Visiting!%20🙌&fontAlign=50&descAlign=79&descAlignY=91&fontAlignY=66&textBg=false&animation=twinkling&desc=Let’s%20connect%20and%20grow%20together.&fontSize=76&reversal=true&section=footer"/>
 </p>
 
