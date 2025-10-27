@@ -68,6 +68,10 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
+</p>
+
 
 ## 📊 GitHub Analytics
 
