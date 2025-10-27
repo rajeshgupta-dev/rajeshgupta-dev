@@ -3,7 +3,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Rajesh%20Gupta&fontAlign=35&descAlign=85&descAlignY=63&fontAlignY=25&textBg=false&animation=twinkling&desc=A%20Mern%20stack%20Developer&fontSize=89"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Rajesh%20Gupta&fontAlign=35&descAlign=68&descAlignY=54&fontAlignY=25&textBg=false&animation=twinkling&desc=MERN%20Stack%20Learner%20@%20Masai%20|%20Future%20Full%20Stack%20Developer&fontSize=89&reversal=true"/>
 </p>
 
 
