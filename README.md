@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+
 <div align="center">
 
 <!-- Typing Header Animation -->
@@ -143,3 +148,8 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
 ---
 
 ⭐️ *From [rajeshgupta-dev](https://github.com/rajeshgupta-dev)*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
