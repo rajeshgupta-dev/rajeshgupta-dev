@@ -4,7 +4,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Rajesh+Gupta;Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
 
 <!-- Coding GIF -->
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/fa190b4fb6ce7411b86a20caebabc1a4c80055bb2a051b53cb8a5898a6861c35/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966" />
+
+<!-- <img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/77b91a3b6012194d0b7410470dc902f74575a97a9b33f6654051d3d9d9b8cb73/68747470733a2f2f7777772e6761627269656c636f7272616c63617264656e61732e636f6d2f636f6e74656e742f696d616765732f73697a652f77323030302f323032342f30332f776562332e676966" /> -->
+
+<!-- <img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/2609f6145351d2e60d26807a14242fbe6f22f6c2b7bacf93f42c6f341f3eac5f/68747470733a2f2f7777772e677576692e696e2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f31312f67697068794653442e676966" /> -->
+
+<!-- <img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" /> -->
+
 
 <!-- Profile Views -->
 <p>
@@ -24,6 +31,8 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
 - 🛠️ Skilled in **Authentication**, **API Integration**, and **Backend Deployment**
 - 🤝 Excel in **collaborative environments** and solving **real-world challenges**
 - 🌱 Continuously learning and exploring **new technologies** to enhance my craft
+
+ <img align="center" alt="Coding" width="1500" height = "500" src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966" />
 
 
 ## 🛠️ Tech Stack
