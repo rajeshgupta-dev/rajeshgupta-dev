@@ -14,7 +14,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=80&lines=Hi+👋,+I'm+Rajesh+Gupta;Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Open+Source+Enthusiast" alt="Typing Animation" />
 
 <!-- Coding GIF -->
-<img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/fa190b4fb6ce7411b86a20caebabc1a4c80055bb2a051b53cb8a5898a6861c35/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966" />
+<!-- <img align="center" alt="Coding" width="600" src="[https://camo.githubusercontent.com/fa190b4fb6ce7411b86a20caebabc1a4c80055bb2a051b53cb8a5898a6861c35/68747470733a2f2f7777772e6368617774656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f646576656c6f7065722e676966](https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-coding-on-computer-illustration-svg-download-png-8470766.png)" /> -->
+<img align="center" alt="Programmer Illustration" width="600" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-coding-on-computer-illustration-svg-download-png-8470766.png" />
+
+
+
 
 <!-- <img align="center" alt="Coding" width="600" src="https://camo.githubusercontent.com/77b91a3b6012194d0b7410470dc902f74575a97a9b33f6654051d3d9d9b8cb73/68747470733a2f2f7777772e6761627269656c636f7272616c63617264656e61732e636f6d2f636f6e74656e742f696d616765732f73697a652f77323030302f323032342f30332f776562332e676966" /> -->
 
