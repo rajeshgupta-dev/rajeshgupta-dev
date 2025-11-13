@@ -83,15 +83,16 @@ Hi, I’m **Rajesh Gupta** — a dedicated Full Stack **MERN Developer** and pro
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rajeshgupta-dev&show_icons=true&count_private=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true" width="48%" />
 </a>
 
-  
 <!-- Most Used Languages -->
 <a href="https://github.com/rajeshgupta-dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshgupta-dev&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=6" width="48%" />
 </a>
+
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=52&color=gradient&fontAlign=50&descAlign=78&descAlignY=91&fontAlignY=65&textBg=false&animation=twinkling&fontSize=76&reversal=true&section=header"/>
 </p>
+
 <!-- GitHub Streak -->
 <a href="https://github.com/rajeshgupta-dev">
   <img src="https://streak-stats.demolab.com/?user=rajeshgupta-dev&theme=github-dark&hide_border=true&border_radius=10&fire=EB5454&sideLabels=EB5454" width="97%" />
